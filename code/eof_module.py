@@ -41,7 +41,7 @@ def compute_eof(data):
     if np.isnan(data_reshape_No_NaN).any() or \
             np.isinf(data_reshape_No_NaN).any():
         pass        
-        #raise ValueError("Input data contains NaN or Inf values.")
+        # raise ValueError("Input data contains NaN or Inf values.")
 
     # Calculate the covariance matrix
     matriz_cov = np.dot(data_reshape_No_NaN, data_reshape_No_NaN.T)
