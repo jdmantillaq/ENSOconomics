@@ -23,5 +23,5 @@ The Oceanic Niño Index (ONI) is the primary measure for identifying ENSO events
 
 
 <p align="center">
-    <img src="figures/oni_index.png" width="500px">
+    <img src="figures/oni_index.png" width="600px">
 </p>
